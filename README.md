@@ -1,6 +1,5 @@
 # Data-Management-Travel-
 React Framework (React + MySQL) and Search/Sorting data.
-
 <br />
 Start page.
 <br />
